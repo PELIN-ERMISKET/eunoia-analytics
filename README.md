@@ -25,10 +25,9 @@ The dashboard focuses on:
 - **Modeling:** Star-schema (orders, order_items, products, brands, stores)
 - **KPIs:** Revenue, Orders, Average Basket, Target Achievement %
 
+<h2>📁 Repository Structure</h2>
 
-
-## 📁 Repository Structure
-
+<pre>
 EUNOIA-Analytics/
 ├─ powerbi/
 │  └─ EUNOIA_POWERBI.pbix
@@ -40,6 +39,8 @@ EUNOIA-Analytics/
 │  ├─ stores.png
 │  └─ products.png
 └─ README.md
+</pre>
+
 
 
 ## 📸 Dashboard Pages
